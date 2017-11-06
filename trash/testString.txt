@@ -1,0 +1,12 @@
+detectNetwork("38345678901234"); //diner's club
+detectNetwork("39345678901234"); //diner's club
+detectNetwork("343456789012345"); //american express
+detectNetwork("37345678901234"); //american express
+detectNetwork("4123456789012"); //visa
+detectNetwork("4123456789012345"); //visa
+detectNetwork("4123456789012345678"); //visa
+detectNetwork("5112345678901234"); //mastercard
+detectNetwork("5212345678901234"); //mastercard
+detectNetwork("5312345678901234"); //mastercard
+detectNetwork("5412345678901234"); //mastercard
+detectNetwork("5512345678901234"); //mastercard
